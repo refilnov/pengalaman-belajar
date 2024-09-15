@@ -1,11 +1,11 @@
-Pengalaman Belajar di Dicoding
+# Pengalaman Belajar di Dicoding
 
-15 September 2024
+**15 September 2024**<br>
 Belajar kelas Memulai Pemrograman dengan Git dan GitHub. (Progres 33%)
 * Belajar tentang apa itu Git dan GitHub.
 * Belajar perintah dasar dari Git.
 
-15 September 2024
+**15 September 2024**<br>
 Belajar kelas Memulai Pemrograman dengan Git dan GitHub. (Progres 58%)
 * Belajar membuat repository
 * Belajar pengenalan Add a README file, Add .gitignore, Choose a license.
